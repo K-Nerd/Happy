@@ -1,9 +1,12 @@
 # Happy
 # Ready to Google
 1. Coding Test
-   -> Baekjoon : Python & C
+
+  a. Baekjoon : Python & C
 2. Security
-   -> DreamHack
+
+   a. DreamHack
 3. Engineer License
-   -> 정보처리기사
-   -> 네트워크 관리사
+
+  a. 정보처리기사  
+  b. 네트워크 관리사
